@@ -198,7 +198,6 @@
 #include <crypto/chacha.h>
 #include <crypto/chacha20.h>
 #include <crypto/blake2s.h>
-
 #include <asm/processor.h>
 #include <asm/uaccess.h>
 #include <asm/irq.h>
